@@ -57,7 +57,7 @@ API_SECRET=your_42_api_secret
 </code></pre>
 
 <h2 style="color:#2c3e50;">✅ État du projet</h2>
-<p>✔️ Projet fonctionnel – améliorations prévues (UI/UX, refresh token…)</p>
+<p>✔️ Projet fonctionnel – améliorations prévues (UI/UX)</p>
 
 <h2 style="color:#2c3e50;">📄 Licence</h2>
-<p>Projet réalisé dans le cadre de l’école <b>42</b>.</p>
+<p>Projet réalisé dans le cadre de mon cursus à l’école <b>42</b>.</p>
